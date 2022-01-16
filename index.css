@@ -10,7 +10,7 @@ text-align: center;
 justify-content: center;
 margin-top: 100px;
 width:100% ;
-min-width: 50vh;
+min-height: 50vh;
 }
 
 #container{
@@ -74,7 +74,7 @@ cursor: pointer;
         text-align: center;
         justify-content: center;
         margin-top: 100px;
-        width: 100%;
+        width: 90%;
         min-height: 50vh;
         }
   
@@ -139,7 +139,7 @@ cursor: pointer;
         text-align: center;
         justify-content: center;
         margin-top: 100px;
-        width: 100%;
+        width: 90%;
         min-height: 50vh;
         }
    
