@@ -10,7 +10,7 @@ text-align: center;
 justify-content: center;
 margin-top: 100px;
 width:100% ;
-min-height: 50vh;
+min-height: 100vh;
 }
 
 #container{
@@ -74,8 +74,8 @@ cursor: pointer;
         text-align: center;
         justify-content: center;
         margin-top: 100px;
-        width: 90%;
-        min-height: 50vh;
+        width: 100%;
+        min-height: 100vh;
         }
   
         
@@ -139,8 +139,8 @@ cursor: pointer;
         text-align: center;
         justify-content: center;
         margin-top: 100px;
-        width: 90%;
-        min-height: 50vh;
+        width: 100%;
+        min-height: 100vh;
         }
    
         #container{
@@ -202,7 +202,7 @@ cursor: pointer;
         justify-content: center;
         margin-top: 100px;
         width: 100%;
-        min-height: 50vh;
+        min-height: 100vh;
         }
  
         #container{
