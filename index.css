@@ -109,11 +109,11 @@ cursor: pointer;
             }
             
             .buttons button{
-            margin-right: 0;
+            margin-right:0;
             margin-left: 0;
             margin-top: 25px;
-            font-size: 20px;
-            padding: 10px, 20px;
+            font-size: 10PX;
+            padding: 5px, 10px;
             text-align: center;
             justify-content: center;
             background-color: none;
@@ -167,8 +167,8 @@ cursor: pointer;
                 margin-right: 0;
                 margin-left: 0;
                 margin-top: 25px;
-                font-size: 20px;
-                padding: 10px, 20px;
+                font-size: 10px;
+                padding: 5px, 10px;
                 text-align: center;
                 justify-content: center;
                 background-color: none;
@@ -346,7 +346,7 @@ cursor: pointer;
 }
 
 
-@media only screen and (min-width: 1086px){
+@media only screen and (min-width: 1084px){
     body{
         box-sizing: border-box;
         text-align: center;
@@ -389,8 +389,8 @@ cursor: pointer;
                 margin-right:0;
                 margin-left: 0;
                 margin-top: 25px;
-                font-size: 20px;
-                padding: 10px, 20px;
+                font-size: 10px;
+                padding: 5px, 10px;
                 text-align: center;
                 justify-content: center;
                 background-color: none;
