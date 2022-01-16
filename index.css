@@ -74,7 +74,7 @@ cursor: pointer;
         text-align: center;
         justify-content: center;
         margin-top: 100px;
-        width: 90%;
+        width: 100%;
         min-height: 50vh;
         }
   
@@ -139,7 +139,7 @@ cursor: pointer;
         text-align: center;
         justify-content: center;
         margin-top: 100px;
-        width: 90%;
+        width: 100%;
         min-height: 50vh;
         }
    
@@ -202,7 +202,7 @@ cursor: pointer;
         justify-content: center;
         margin-top: 100px;
         width: 100%;
-        min-height: 100vh;
+        min-height: 50vh;
         }
  
         #container{
