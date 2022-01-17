@@ -11,6 +11,7 @@ justify-content: center;
 margin-top: 100px;
 width: 100%;
 min-height: 100vh;
+
 }
 
 #container{
@@ -18,9 +19,11 @@ border: 5px solid black;
 border-radius: 10px;
 margin-top: 15px;
 margin-bottom: 15px;
-margin-left: 20%;
-margin-right: 20%;
+margin-left: auto;
+margin-right: auto;
 width: 70%;
+justify-content: center;
+align-items: center;
 
 
 }
@@ -82,10 +85,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 50%;
-           
+           justify-content: center;
+           align-items: center;
            
             
         }
@@ -146,9 +150,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 50%;
+            justify-content: center;
+            align-items: center;
         
             
             }
@@ -208,9 +214,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 50%;
+            justify-content: center;
+            align-items: center;
             
             }
 
@@ -267,9 +275,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 50%;
+            justify-content: center;
+            align-items: center;
             
             }
 
@@ -322,9 +332,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 70%;
+            justify-content: center;
+            align-items: center;
                         
             }  
             
@@ -381,9 +393,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 70%;
+            justify-content: center;
+            align-items: center;
             
             } 
             
@@ -439,9 +453,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 70%;
+            justify-content: center;
+            align-items: center;
             
             } 
             
@@ -497,9 +513,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 70%;
+            justify-content: center;
+            align-items: center;
             
             }
 
@@ -554,9 +572,11 @@ cursor: pointer;
         #container{
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin-left: auto;
+            margin-right: auto;
             width: 70%;
+            justify-content: center;
+            align-items: center;
             
             }
 
