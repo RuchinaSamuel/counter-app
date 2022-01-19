@@ -22,7 +22,7 @@ margin-bottom: 15px;
 margin-left: auto;
 margin-right: auto;
 width: 70%;
-justify-content: center;
+justify-content: space-around;
 align-items: center;
 
 
@@ -88,7 +88,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 50%;
-           justify-content: center;
+           justify-content: space-around;
            align-items: center;
            
             
@@ -154,7 +154,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 50%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
         
             
@@ -219,7 +219,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 50%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
             
             }
@@ -249,10 +249,10 @@ cursor: pointer;
                 }
                 
                 .buttons button{
-                margin-right:0;
-                margin-left: 0;
+                margin-right:60px;
+                margin-left: 60px;
                 margin-top: 25px;
-                font-size: 20px;
+                font-size: 2rem;
                 padding: 10px, 20px;
                 text-align: center;
                 justify-content: center;
@@ -281,7 +281,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 50%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
             
             }
@@ -311,10 +311,10 @@ cursor: pointer;
                 }
                 
                 .buttons button{
-                margin-right:0;
-                margin-left: 0;
+                margin: right 60PX;
+                margin-left: 60PX;
                 margin-top: 25px;
-                font-size: 20px;
+                font-size: 2rem;
                 padding: 10px, 20px;
                 text-align: center;
                 justify-content: center;
@@ -339,7 +339,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 70%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
                         
             }  
@@ -373,7 +373,7 @@ cursor: pointer;
                 margin-right: 60px;
                 margin-left: 60px;
                 margin-top: 25px;
-                font-size: 20px;
+                font-size: 2rem;
                 padding: 10px, 20px;
                 text-align: center;
                 justify-content: center;
@@ -401,7 +401,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 70%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
             
             } 
@@ -462,7 +462,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 70%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
             
             } 
@@ -523,7 +523,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 70%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
             
             }
@@ -583,7 +583,7 @@ cursor: pointer;
             margin-left: auto;
             margin-right: auto;
             width: 70%;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
             
             }
